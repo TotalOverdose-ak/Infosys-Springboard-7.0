@@ -1,0 +1,402 @@
+[
+  {
+    "title": "Mukhyamantri Majhi Ladki Bahin Yojana",
+    "description": "Financial assistance of \u20b91,500 per month for eligible women in Maharashtra to ensure economic independence.",
+    "amount": 1500.0,
+    "eligibilityCriteria": "Women aged 21-65 years, family income < \u20b92.5 Lakh/year.",
+    "applicationDeadline": "2026-12-31",
+    "state": "Maharashtra",
+    "category": "Women Empowerment",
+    "isActive": true
+  },
+  {
+    "title": "Namo Shetkari Maha Samman Nidhi Yojana",
+    "description": "Additional financial aid of \u20b96,000 per year for farmers in Maharashtra, supplementing the PM-Kisan scheme.",
+    "amount": 6000.0,
+    "eligibilityCriteria": "Farmers registered under PM-Kisan scheme.",
+    "applicationDeadline": "2026-12-31",
+    "state": "Maharashtra",
+    "category": "Agriculture",
+    "isActive": true
+  },
+  {
+    "title": "Mukhyamantri Ladli Behna Yojana",
+    "description": "Monthly financial assistance of \u20b91,250 to women to improve their nutritional and health status.",
+    "amount": 1250.0,
+    "eligibilityCriteria": "Married/Divorced/Widowed women aged 21-60, no tax-paying family member.",
+    "applicationDeadline": "2026-10-30",
+    "state": "Madhya Pradesh",
+    "category": "Women Empowerment",
+    "isActive": true
+  },
+  {
+    "title": "Mukhyamantri Seekho Kamao Yojana",
+    "description": "Earn while you learn scheme providing stipends to youth for skill training.",
+    "amount": 8000.0,
+    "eligibilityCriteria": "Youth aged 18-29, 12th pass/ITI/Diploma/Degree.",
+    "applicationDeadline": "2026-08-15",
+    "state": "Madhya Pradesh",
+    "category": "Education & Skill",
+    "isActive": true
+  },
+  {
+    "title": "Gruha Lakshmi Scheme",
+    "description": "Financial assistance of \u20b92,000 per month to the woman head of the family in Karnataka.",
+    "amount": 2000.0,
+    "eligibilityCriteria": "Woman recognized as head of family on Antyodaya, BPL or APL card.",
+    "applicationDeadline": "2026-12-31",
+    "state": "Karnataka",
+    "category": "Women Empowerment",
+    "isActive": true
+  },
+  {
+    "title": "Yuva Nidhi Scheme",
+    "description": "Unemployment allowance of \u20b93,000/month for graduates and \u20b91,500/month for diploma holders.",
+    "amount": 3000.0,
+    "eligibilityCriteria": "Graduated in 2022/2023, unemployed for 6 months.",
+    "applicationDeadline": "2026-09-30",
+    "state": "Karnataka",
+    "category": "Employment",
+    "isActive": true
+  },
+  {
+    "title": "Mahalakshmi Scheme",
+    "description": "Monthly financial aid of \u20b92,500 to eligible women, gas cylinders at \u20b9500, and free bus travel.",
+    "amount": 2500.0,
+    "eligibilityCriteria": "Women belonging to BPL families.",
+    "applicationDeadline": "2026-11-30",
+    "state": "Telangana",
+    "category": "Women Empowerment",
+    "isActive": true
+  },
+  {
+    "title": "Rythu Bandhu Scheme",
+    "description": "Investment support for agriculture at \u20b95,000 per acre per season to farmers.",
+    "amount": 5000.0,
+    "eligibilityCriteria": "Land-owning farmers in Telangana.",
+    "applicationDeadline": "2026-07-31",
+    "state": "Telangana",
+    "category": "Agriculture",
+    "isActive": true
+  },
+  {
+    "title": "Mukhyamantri Kanya Sumangala Yojana",
+    "description": "Financial support to families with a girl child, provided in six phases from birth to graduation.",
+    "amount": 25000.0,
+    "eligibilityCriteria": "Family income < \u20b93 Lakh/year, maximum 2 girls per family.",
+    "applicationDeadline": "2026-12-31",
+    "state": "Uttar Pradesh",
+    "category": "Child Welfare",
+    "isActive": true
+  },
+  {
+    "title": "UP Free Smartphone Yojana",
+    "description": "Distribution of free smartphones/tablets to students to facilitate digital learning.",
+    "amount": 10000.0,
+    "eligibilityCriteria": "Students enrolled in graduation, post-graduation, or diploma courses.",
+    "applicationDeadline": "2026-10-15",
+    "state": "Uttar Pradesh",
+    "category": "Education & Skill",
+    "isActive": true
+  },
+  {
+    "title": "Indira Gandhi Free Smartphone Yojana",
+    "description": "Free smartphones with internet connectivity for women heads of families.",
+    "amount": 6800.0,
+    "eligibilityCriteria": "Women covered under Chiranjeevi Yojana.",
+    "applicationDeadline": "2026-11-01",
+    "state": "Rajasthan",
+    "category": "Digital Empowerment",
+    "isActive": true
+  },
+  {
+    "title": "Mukhyamantri Chiranjeevi Swasthya Bima",
+    "description": "Universal health insurance providing cashless treatment up to \u20b925 Lakhs.",
+    "amount": 2500000.0,
+    "eligibilityCriteria": "All families in Rajasthan (free for eligible categories, \u20b9850 premium for others).",
+    "applicationDeadline": "2026-12-31",
+    "state": "Rajasthan",
+    "category": "Healthcare",
+    "isActive": true
+  },
+  {
+    "title": "Lakshmir Bhandar",
+    "description": "Basic income support for female heads of families. \u20b91,200 for SC/ST and \u20b91,000 for general category.",
+    "amount": 1000.0,
+    "eligibilityCriteria": "Women aged 25-60 not holding permanent govt jobs.",
+    "applicationDeadline": "2026-12-31",
+    "state": "West Bengal",
+    "category": "Women Empowerment",
+    "isActive": true
+  },
+  {
+    "title": "Kanyashree Prakalpa",
+    "description": "Annual scholarship for unmarried girls aged 13-18 and a one-time grant upon reaching 18 to prevent early marriage.",
+    "amount": 25000.0,
+    "eligibilityCriteria": "Unmarried girls enrolled in school/college.",
+    "applicationDeadline": "2026-12-31",
+    "state": "West Bengal",
+    "category": "Child Welfare",
+    "isActive": true
+  },
+  {
+    "title": "PM Surya Ghar Muft Bijli Yojana",
+    "description": "Central scheme providing up to 300 units of free electricity every month via rooftop solar subsidies.",
+    "amount": 78000.0,
+    "eligibilityCriteria": "Indian citizens with a suitable roof, valid electricity connection.",
+    "applicationDeadline": "2027-03-31",
+    "state": "All States",
+    "category": "Energy & Infrastructure",
+    "isActive": true
+  },
+  {
+    "title": "PM Vishwakarma Yojana",
+    "description": "End-to-end support for artisans and craftspeople including toolkit incentives and collateral-free credit.",
+    "amount": 300000.0,
+    "eligibilityCriteria": "Artisan working in specified 18 trades, minimum age 18.",
+    "applicationDeadline": "2028-03-31",
+    "state": "All States",
+    "category": "Employment",
+    "isActive": true
+  },
+  {
+    "title": "PM Kisan Samman Nidhi",
+    "description": "Income support of \u20b96,000 per year in three equal installments to all landholding farmer families.",
+    "amount": 6000.0,
+    "eligibilityCriteria": "Small and marginal farmers holding cultivable land.",
+    "applicationDeadline": "2026-12-31",
+    "state": "All States",
+    "category": "Agriculture",
+    "isActive": true
+  },
+  {
+    "title": "Kalaignar Magalir Urimai Thittam",
+    "description": "Financial assistance of \u20b91,000 per month for women heads of eligible households.",
+    "amount": 1000.0,
+    "eligibilityCriteria": "Women head of families with annual income < \u20b92.5 Lakh.",
+    "applicationDeadline": "2026-12-31",
+    "state": "Tamil Nadu",
+    "category": "Women Empowerment",
+    "isActive": true
+  },
+  {
+    "title": "Pudhumai Penn Scheme",
+    "description": "Financial assistance of \u20b91,000/month to girl students who studied in govt schools from classes 6 to 12 until graduation.",
+    "amount": 1000.0,
+    "eligibilityCriteria": "Girl students pursuing higher education from govt schools.",
+    "applicationDeadline": "2026-09-30",
+    "state": "Tamil Nadu",
+    "category": "Education & Skill",
+    "isActive": true
+  },
+  {
+    "title": "Mukhyamantri Udyami Yojana",
+    "description": "Grant of \u20b910 Lakhs (50% subsidy, 50% interest-free loan) to promote self-employment among youth.",
+    "amount": 1000000.0,
+    "eligibilityCriteria": "Youth belonging to SC/ST/EBC/Women with 12th/ITI qualification.",
+    "applicationDeadline": "2026-11-30",
+    "state": "Bihar",
+    "category": "Business",
+    "isActive": true
+  },
+  {
+    "title": "Bihar Student Credit Card",
+    "description": "Education loan up to \u20b94 Lakhs at a nominal interest rate (1% for women/disabled, 4% for others).",
+    "amount": 400000.0,
+    "eligibilityCriteria": "12th pass students pursuing higher education.",
+    "applicationDeadline": "2026-12-31",
+    "state": "Bihar",
+    "category": "Education & Skill",
+    "isActive": true
+  },
+  {
+    "title": "Aam Aadmi Clinics & Free Electricity",
+    "description": "300 units of free electricity per month and free primary healthcare.",
+    "amount": 2500.0,
+    "eligibilityCriteria": "All residents holding a domestic electricity connection.",
+    "applicationDeadline": "2026-12-31",
+    "state": "Punjab",
+    "category": "Basic Amenities",
+    "isActive": true
+  },
+  {
+    "title": "Mo Ghara Yojana",
+    "description": "Credit-linked housing scheme to assist lower and middle-income families in rural areas.",
+    "amount": 300000.0,
+    "eligibilityCriteria": "Rural households in Odisha not holding pucca houses.",
+    "applicationDeadline": "2026-10-31",
+    "state": "Odisha",
+    "category": "Housing",
+    "isActive": true
+  },
+  {
+    "title": "Subhadra Yojana",
+    "description": "Financial assistance voucher of \u20b950,000 for women empowerment initiatives.",
+    "amount": 50000.0,
+    "eligibilityCriteria": "Women in Odisha.",
+    "applicationDeadline": "2026-12-31",
+    "state": "Odisha",
+    "category": "Women Empowerment",
+    "isActive": true
+  },
+  {
+    "title": "Orunodoi Scheme",
+    "description": "Monthly financial assistance of \u20b91,250 transferred directly to female heads of marginalized households.",
+    "amount": 1250.0,
+    "eligibilityCriteria": "Widows, unmarried women, or women with differently-abled members in family.",
+    "applicationDeadline": "2026-12-31",
+    "state": "Assam",
+    "category": "Financial Inclusion",
+    "isActive": true
+  },
+  {
+    "title": "Mukhyamantri Atmanirbhar Asom",
+    "description": "Financial support of \u20b92 Lakhs in installments to unemployed youth for entrepreneurship.",
+    "amount": 200000.0,
+    "eligibilityCriteria": "Unemployed youth aged 28-40 with specific educational criteria.",
+    "applicationDeadline": "2026-11-15",
+    "state": "Assam",
+    "category": "Business",
+    "isActive": true
+  },
+  {
+    "title": "Mahtari Vandana Yojana",
+    "description": "Annual financial aid of \u20b912,000 (\u20b91,000/month) to married women.",
+    "amount": 12000.0,
+    "eligibilityCriteria": "Married women above 21 years of age.",
+    "applicationDeadline": "2026-12-31",
+    "state": "Chhattisgarh",
+    "category": "Women Empowerment",
+    "isActive": true
+  },
+  {
+    "title": "Krishak Unnati Yojana",
+    "description": "Procurement of paddy at an elevated MSP to boost farmer income.",
+    "amount": 3100.0,
+    "eligibilityCriteria": "Registered farmers selling paddy to state societies.",
+    "applicationDeadline": "2026-03-31",
+    "state": "Chhattisgarh",
+    "category": "Agriculture",
+    "isActive": true
+  },
+  {
+    "title": "Mukhyamantri Maiyan Samman Yojana",
+    "description": "Financial assistance of \u20b91,000 per month for vulnerable women.",
+    "amount": 1000.0,
+    "eligibilityCriteria": "Women aged 21-50 from poor families.",
+    "applicationDeadline": "2026-12-31",
+    "state": "Jharkhand",
+    "category": "Women Empowerment",
+    "isActive": true
+  },
+  {
+    "title": "Abua Awas Yojana",
+    "description": "State-sponsored housing scheme to build 3-room pucca houses for the poor.",
+    "amount": 200000.0,
+    "eligibilityCriteria": "Homeless families or those living in kutcha houses.",
+    "applicationDeadline": "2026-10-31",
+    "state": "Jharkhand",
+    "category": "Housing",
+    "isActive": true
+  },
+  {
+    "title": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
+    "description": "National Mission for Financial Inclusion to ensure access to financial services, namely, basic savings & deposit accounts, remittance, credit, insurance, pension in an affordable manner.",
+    "amount": 10000.0,
+    "eligibilityCriteria": "Any Indian citizen aged 10 years and above who does not have any other bank account.",
+    "applicationDeadline": "2030-12-31",
+    "state": "All States",
+    "category": "Financial Inclusion",
+    "isActive": true
+  },
+  {
+    "title": "Pradhan Mantri Awas Yojana (PMAY-U)",
+    "description": "Housing for All initiative providing a pucca house to eligible urban households with a huge interest subsidy on home loans.",
+    "amount": 267000.0,
+    "eligibilityCriteria": "Families with annual income up to \u20b918 Lakhs, must not own a pucca house anywhere in India.",
+    "applicationDeadline": "2026-12-31",
+    "state": "All States",
+    "category": "Housing",
+    "isActive": true
+  },
+  {
+    "title": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "description": "Provides loans up to \u20b910 Lakh to non-corporate, non-farm small/micro enterprises without collateral.",
+    "amount": 1000000.0,
+    "eligibilityCriteria": "Any Indian citizen who has a business plan for a non-farm sector income-generating activity.",
+    "applicationDeadline": "2028-03-31",
+    "state": "All States",
+    "category": "Business",
+    "isActive": true
+  },
+  {
+    "title": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "description": "Provides LPG connections to women from Below Poverty Line (BPL) households.",
+    "amount": 1600.0,
+    "eligibilityCriteria": "Applicant must be a woman aged above 18, belonging to SC/ST/BPL households.",
+    "applicationDeadline": "2026-12-31",
+    "state": "All States",
+    "category": "Women Empowerment",
+    "isActive": true
+  },
+  {
+    "title": "Ayushman Bharat PM-JAY",
+    "description": "World's largest health insurance scheme providing \u20b95 Lakh per family per year for secondary and tertiary care hospitalization.",
+    "amount": 500000.0,
+    "eligibilityCriteria": "Based on SECC 2011 deprivation and occupational criteria in rural and urban areas.",
+    "applicationDeadline": "2030-12-31",
+    "state": "All States",
+    "category": "Healthcare",
+    "isActive": true
+  },
+  {
+    "title": "Stand-Up India Scheme",
+    "description": "Facilitates bank loans between \u20b910 Lakh and \u20b91 Crore to at least one SC/ST borrower and one woman borrower per bank branch.",
+    "amount": 10000000.0,
+    "eligibilityCriteria": "SC/ST and/or woman entrepreneurs, above 18 years of age, setting up a greenfield enterprise.",
+    "applicationDeadline": "2025-12-31",
+    "state": "All States",
+    "category": "Business",
+    "isActive": true
+  },
+  {
+    "title": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "description": "Comprehensive crop insurance scheme protecting farmers against non-preventable natural risks.",
+    "amount": 0.0,
+    "eligibilityCriteria": "All farmers growing notified crops in a notified area, including sharecroppers.",
+    "applicationDeadline": "2026-07-31",
+    "state": "All States",
+    "category": "Agriculture",
+    "isActive": true
+  },
+  {
+    "title": "Jal Jeevan Mission (JJM)",
+    "description": "Aims to provide safe and adequate drinking water through individual household tap connections to all rural households.",
+    "amount": 0.0,
+    "eligibilityCriteria": "Any rural household currently without a functional tap connection.",
+    "applicationDeadline": "2026-12-31",
+    "state": "All States",
+    "category": "Basic Amenities",
+    "isActive": true
+  },
+  {
+    "title": "Atal Pension Yojana (APY)",
+    "description": "Guaranteed pension scheme primarily aimed at the unorganized sector workers.",
+    "amount": 5000.0,
+    "eligibilityCriteria": "Indian citizens aged 18 to 40 years holding a savings bank account.",
+    "applicationDeadline": "2030-12-31",
+    "state": "All States",
+    "category": "Financial Inclusion",
+    "isActive": true
+  },
+  {
+    "title": "Swachh Bharat Abhiyan (Gramin)",
+    "description": "Financial incentive to BPL/APL households for the construction of individual household latrines (IHHL).",
+    "amount": 12000.0,
+    "eligibilityCriteria": "BPL households and restricted categories of APL households.",
+    "applicationDeadline": "2026-12-31",
+    "state": "All States",
+    "category": "Basic Amenities",
+    "isActive": true
+  }
+]
